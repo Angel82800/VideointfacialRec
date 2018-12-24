@@ -1,0 +1,15 @@
+data/
+src/.ipynb_checkpoints/
+src/__pychache__/*
+src/detector/.ipynb_checkpoints/*
+src/detector/__pycache__/*
+src/detector/*/.ipynb_checkpoints/*
+src/detector/*/__pycache__/*
+src/logdir/
+src/__pycache__/
+*.pyc
+*.pyc
+src/inference/.ipynb_checkpoints/
+src/inference/model/.ipynb_checkpoints/
+src/inference/models/
+*.mp4

@@ -1,0 +1,9 @@
+numpy
+Flask
+tensorflow-gpu
+opencv-python
+scipy
+sklearn
+six
+
+
